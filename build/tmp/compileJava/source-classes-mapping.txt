@@ -1,0 +1,23 @@
+paradigma/ExemploLambda.java
+ paradigma.ExemploLambda
+ paradigma.ExemploLambda$MeuExercicio
+aula2/Consumidores.java
+ aula2.Consumidores
+paradigma/ExemploFuncoesPuras.java
+ paradigma.ExemploFuncoesPuras
+aula2/Suppliers.java
+ aula2.Pessoa
+ aula2.Suppliers
+aula2/FuncaoAltaOrdem.java
+ aula2.Calculo
+ aula2.FuncaoAltaOrdem
+paradigma/ExempoUnaryOperator.java
+ paradigma.ExempoUnaryOperator
+fatorrecursivo/FatorialRecursivo.java
+ fatorrecursivo.FatorialRecursivo
+aula2/Funcoes.java
+ aula2.Funcoes
+aula2/Predicados.java
+ aula2.Predicados
+aula2/Iteracoes.java
+ aula2.Iteracoes
