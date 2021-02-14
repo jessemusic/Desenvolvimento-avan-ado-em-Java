@@ -1,8 +1,19 @@
+aula2/Consumidores.java
+ aula2.Consumidores
+aula2/FuncaoAltaOrdem.java
+ aula2.Calculo
+ aula2.FuncaoAltaOrdem
+Aula3/aula3b/FutureExemplo.java
+ Aula3.aula3b.Atividade
+ Aula3.aula3b.Casa
+ Aula3.aula3b.Comodo
+ Aula3.aula3b.FutureExemplo
+ Aula3.aula3b.Quarto
+paradigma/ExempoUnaryOperator.java
+ paradigma.ExempoUnaryOperator
 paradigma/ExemploLambda.java
  paradigma.ExemploLambda
  paradigma.ExemploLambda$MeuExercicio
-aula2/Consumidores.java
- aula2.Consumidores
 paradigma/ExemploFuncoesPuras.java
  paradigma.ExemploFuncoesPuras
 Aula3/ThreadsExemplos.java
@@ -13,21 +24,16 @@ Aula3/ThreadsExemplos.java
  Aula3.ThreadsExemplos
 aula2/Iteracoes.java
  aula2.Iteracoes
-aula2/Suppliers.java
- aula2.Pessoa
- aula2.Suppliers
-aula2/FuncaoAltaOrdem.java
- aula2.Calculo
- aula2.FuncaoAltaOrdem
-paradigma/ExempoUnaryOperator.java
- paradigma.ExempoUnaryOperator
+Aula3/aula3a/ThreadsExemplos2.java
+ Aula3.aula3a.BarraDeCarregamento
+ Aula3.aula3a.GeradorPDF
+ Aula3.aula3a.ThreadsExemplos2
 fatorrecursivo/FatorialRecursivo.java
  fatorrecursivo.FatorialRecursivo
 aula2/Funcoes.java
  aula2.Funcoes
 aula2/Predicados.java
  aula2.Predicados
-Aula3/aula3a/ThreadsExemplos2.java
- Aula3.aula3a.BarraDeCarregamento
- Aula3.aula3a.GeradorPDF
- Aula3.aula3a.ThreadsExemplos2
+aula2/Suppliers.java
+ aula2.Pessoa
+ aula2.Suppliers
