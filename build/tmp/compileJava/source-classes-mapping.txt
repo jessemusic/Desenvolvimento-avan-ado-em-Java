@@ -13,6 +13,9 @@ Aula3/ThreadsExemplos.java
  Aula3.ThreadsExemplos
 aula2/Iteracoes.java
  aula2.Iteracoes
+aula2/Suppliers.java
+ aula2.Pessoa
+ aula2.Suppliers
 aula2/FuncaoAltaOrdem.java
  aula2.Calculo
  aula2.FuncaoAltaOrdem
@@ -24,6 +27,7 @@ aula2/Funcoes.java
  aula2.Funcoes
 aula2/Predicados.java
  aula2.Predicados
-aula2/Suppliers.java
- aula2.Pessoa
- aula2.Suppliers
+Aula3/aula3a/ThreadsExemplos2.java
+ Aula3.aula3a.BarraDeCarregamento
+ Aula3.aula3a.GeradorPDF
+ Aula3.aula3a.ThreadsExemplos2
