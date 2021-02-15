@@ -37,3 +37,5 @@ aula2/Predicados.java
 aula2/Suppliers.java
  aula2.Pessoa
  aula2.Suppliers
+Aula3/aula3c/PalaleloStreamExemplos.java
+ Aula3.aula3c.PalaleloStreamExemplos
